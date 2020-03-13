@@ -5,6 +5,9 @@ h1 a, h2 a {
 body {
     padding-left: 15px ;
 }
+.date p {
+    font-family: 'turquoise';
+}
 .page-header {
     background-color: #C25100;
     margin-top: 0;
